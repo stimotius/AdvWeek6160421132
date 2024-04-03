@@ -27,7 +27,7 @@ class DetailViewModel(application: Application): AndroidViewModel(application)
         coffeeLoadErrorLD.value = false
 
         queue = Volley.newRequestQueue(getApplication())
-        val url = "http://10.0.2.2/coffees/coffees.php"
+        val url = "http://10.0.2.2/coffees/coffees.json"
         val stringRequest = StringRequest(
             Request.Method.GET, url,
             {
