@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "nama": "Espresso",
+      "harga": 12000,
+      "deskripsi": "Minuman kopi kental dengan rasa pekat dan aroma yang kuat.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso."]
+      }
+    },
+    {
+      "id": 2,
+      "nama": "Americano",
+      "harga": 15000,
+      "deskripsi": "Minuman kopi yang terbuat dari espresso dicampur dengan air panas, memiliki rasa yang lebih ringan.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso", "Air panas"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso.", "Tambahkan air panas ke dalam espresso."]
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Cappuccino",
+      "harga": 18000,
+      "deskripsi": "Minuman kopi dengan campuran espresso, susu, dan foam susu, memiliki tekstur yang lembut dan rasa yang seimbang.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso", "Susu", "Foam susu"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso.", "Panaskan dan uapkan susu.", "Tuangkan espresso ke dalam cangkir.", "Tambahkan susu panas ke dalam espresso.", "Tambahkan foam susu di atasnya."]
+      }
+    },
+    {
+      "id": 4,
+      "nama": "Latte",
+      "harga": 16000,
+      "deskripsi": "Minuman kopi dengan espresso dan susu steamed, memiliki rasa creamy dan lembut.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso", "Susu steamed"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso.", "Panaskan dan uapkan susu.", "Tuangkan espresso ke dalam cangkir.", "Tambahkan susu steamed di atasnya."]
+      }
+    },
+    {
+      "id": 5,
+      "nama": "Mocha",
+      "harga": 18000,
+      "deskripsi": "Minuman kopi dengan campuran espresso, susu, dan sirup coklat, memberikan kombinasi rasa kopi dan coklat.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso", "Susu", "Sirup coklat"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso.", "Panaskan dan uapkan susu.", "Tuangkan espresso ke dalam cangkir.", "Tambahkan susu panas ke dalam espresso.", "Tambahkan sirup coklat."]
+      }
+    },
+    {
+      "id": 6,
+      "nama": "Macchiato",
+      "harga": 14000,
+      "deskripsi": "Minuman kopi dengan espresso yang disajikan dengan sedikit susu steamed, memberikan rasa kopi yang kuat dengan sentuhan susu.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso", "Susu steamed"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso.", "Panaskan dan uapkan susu.", "Tuangkan espresso ke dalam cangkir.", "Tambahkan sedikit susu steamed di atasnya."]
+      }
+    },
+    {
+      "id": 7,
+      "nama": "Affogato",
+      "harga": 20000,
+      "deskripsi": "Minuman kopi dengan tambahan es krim vanilla yang disiram dengan espresso panas, menciptakan kombinasi hangat dan dingin yang menyegarkan.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso", "Es krim vanilla"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso.", "Siapkan es krim vanilla di dalam cangkir.", "Tuangkan espresso panas di atas es krim."]
+      }
+    },
+    {
+      "id": 8,
+      "nama": "Flat White",
+      "harga": 17000,
+      "deskripsi": "Minuman kopi dengan dua shot espresso dan susu steamed, memberikan rasa kopi yang kaya dengan sedikit foam susu.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["2 shot espresso", "Susu steamed"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 14-18 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 60 ml espresso.", "Panaskan dan uapkan susu.", "Tuangkan espresso ke dalam cangkir.", "Tambahkan susu steamed di atasnya."]
+      }
+    },
+    {
+      "id": 9,
+      "nama": "Irish Coffee",
+      "harga": 22000,
+      "deskripsi": "Minuman kopi dengan campuran whiskey irlandia, gula, dan whipped cream di atasnya, memberikan sentuhan hangat dan kaya.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["1 shot espresso", "Whiskey irlandia", "Gula", "Whipped cream"],
+        "langkah": ["Siapkan mesin espresso.", "Seduh 7-9 gram bubuk kopi menggunakan mesin espresso hingga menghasilkan 30 ml espresso.", "Tambahkan whiskey irlandia dan gula ke dalam espresso.", "Aduk hingga gula larut.", "Tambahkan whipped cream di atasnya."]
+      }
+    },
+    {
+      "id": 10,
+      "nama": "Kopi Tubruk",
+      "harga": 10000,
+      "deskripsi": "Minuman kopi tradisional Indonesia yang disajikan dengan cara direbus bersama air panas, memiliki rasa yang kuat dan tekstur yang kental.",
+      "gambar": "https://via.placeholder.com/150",
+      "resep": {
+        "bahan": ["Bubuk kopi", "Air panas"],
+        "langkah": ["Panaskan air hingga mendidih.", "Tambahkan 1-2 sendok makan bubuk kopi ke dalam gelas.", "Tuangkan air panas ke dalam gelas dengan perbandingan yang diinginkan.", "Biarkan bubuk kopi mengendap selama beberapa saat.", "Nikmati kopi."]
+      }
+    }
+  ]
+  
